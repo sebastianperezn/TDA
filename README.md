@@ -1,2 +1,2 @@
 # TDA
-Several tool for working with TDA in julia
+Toolkit for working with TDA in julia
